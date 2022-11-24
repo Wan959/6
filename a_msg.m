@@ -1,4 +1,4 @@
-function x=a_msg(x);
+function x=a_msg(x)
 x=[0 0 0
  0 0 1
  0 0 2
@@ -511,5 +511,3 @@ x=[0 0 0
  7 7 5
  7 7 6
  7 7 7] ;
-
-
